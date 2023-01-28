@@ -2,11 +2,11 @@
 
 ## :octocat: I'm Abin Thankachan 
 
-<img align="right" src="https://media.giphy.com/media/2uOgDYKdFoEKc/giphy.gif" width="280px">
+<img align="right" src="https://giphy.com/embed/uurtMtTKqkJda4dk8Y" width="280px">
 
 - 🔥 I’m currently mastering 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">**Kotlin**, 
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> Dart**
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"> **Dart**
 
 - 🚀 I’m always on the lookout for **cool projects** to work on 
 - 📚 I’m seeking help with **Swift** 
