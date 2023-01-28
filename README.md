@@ -2,8 +2,8 @@
 
 ## :octocat: I'm Abin Thankachan 
 
-<img align="right" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="280px">
-<!-- <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> -->
+<img align="right" src="https://firebasestorage.googleapis.com/v0/b/techrusweb.appspot.com/o/giphy.gif?alt=media&token=3dd7de44-5622-485e-b573-eb0ded6f465f" width="280px">
+
 
 - 🔥 I’m currently mastering &nbsp; 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"> **Kotlin** , 
